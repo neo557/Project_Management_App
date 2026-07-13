@@ -1,4 +1,3 @@
-<img width="959" height="565" alt="スクリーンショット 2026-07-10 143620" src="https://github.com/user-attachments/assets/bdac6820-1f97-4b14-94fa-93f6cb6b7b7e" />
 # 企画管理アプリ（Project Manager）
 
 軽量で高速な 企画管理・ファイル管理ツール。
